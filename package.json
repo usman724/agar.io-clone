@@ -9,6 +9,9 @@
     "watch": "gulp watch",
     "test": "gulp test"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/owenashurst/agar.io-clone.git"
